@@ -1,9 +1,8 @@
 # labpy1
-# labpy1
 
 Program 1 (Program mencari bilangan terbesar)
 1).Alur Agoritma :
-
+```
 a.Mendefinisikan perulangan dengan mengetikkan ;
 	def pengulangan():
    
@@ -38,9 +37,10 @@ c.Membandingkan nilai a,b,c dengan rumus if ;
 -Jangan lupa ketikkan "pengulangan()" ,
  apabila lupa mengetikkan kata tersebut 
  maka definisi perulangan tidak akan muncul pada saat program dijalankan.
+ ```
 2).Berikut kode lengkapnya :
 
-
+```
 def pengulangan():
     print ('Masukkan 3 bilangan yang diinginkan!')
     a=int(input('Bilangan Pertama : '))
@@ -67,6 +67,7 @@ def pengulangan():
         print('Terimakasih telah menggunakan program ini.')
 
 pengulangan()
+```
 3).Flowchatnya:
 
 ![img](https://github.com/nailarifatulmuna/labpy1/blob/master/labpy1/FlowProgram1.png)
