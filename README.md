@@ -1,8 +1,8 @@
 # labpy1
 
-Program 1 (Program mencari bilangan terbesar)
-1).Alur Agoritma :
+# Program 1 (Program mencari bilangan terbesar)
 ```
+1).Alur Agoritma :
 a.Mendefinisikan perulangan dengan mengetikkan ;
 	def pengulangan():
    
